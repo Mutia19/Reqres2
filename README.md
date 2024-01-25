@@ -1,1 +1,1 @@
-# Reqres2
+# kataloncourse
